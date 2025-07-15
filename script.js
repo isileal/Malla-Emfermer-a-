@@ -101,7 +101,7 @@ const prerequisitos = {
   "Cuidados Complejos de Enfermería": ["Enfermería en Adulto y Adulto Mayor II"],
   "Modelos Emergentes del Cuidado": ["Enfermería en Adulto y Adulto Mayor II"],
   "Seminario de Investigación II": ["Seminario de Investigación I"],
-  "Inglés 6": ["Inglés 5"]
+  "Inglés 6": ["Inglés 5"],
   "Internado I": [
     "Fundamentos Diciplinares de Enfermería", "Química y Bioquímica", "Matemáticas y Bioestadística",
     "Ética y Bioética", "Sociedad y Salud I", "Alfabetización Académica", "Gestión del Cuidado I",
@@ -115,11 +115,10 @@ const prerequisitos = {
     "Enfermería en Adulto y Adulto Mayor II", "Gestión en Salud III", "Enfermería Ocupacional",
     "Seminario de Investigación I", "Inglés 5", "Cuidados Complejos de Enfermería",
     "Modelos Emergentes del Cuidado", "Seminario de Investigación II", "Inglés 6"
-],
-"Enfermería en Urgencia": ["Internado I"],
-"Internado II": ["Internado I"],
-"Integración Profesional": ["Internado I"]
-
+  ],
+  "Enfermería en Urgencia": ["Internado I"],
+  "Internado II": ["Internado I"],
+  "Integración Profesional": ["Internado I"]
 };
 
 let completados = [];
