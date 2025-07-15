@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Arial Nova Condensed', Arial, sans-serif;
   background-color: #fff0f5;
   margin: 20px;
   padding: 0;
@@ -37,13 +37,16 @@ h1 {
   margin: 5px 0;
   border-radius: 8px;
   cursor: pointer;
-  transition: background 0.3s ease;
+  transition: background 0.3s ease, text-decoration 0.3s ease;
 }
 
 .ramo.completado {
-  background-color: #ffb6c1; /* rosa cuando está aprobado */
+  background-color: #ffc0cb; /* rosa más fuerte para aprobado */
+  text-decoration: line-through;
+  color: #333;
 }
 
 .ramo.disponible {
+  background-color: #ffe4ec; /* rosa clarito para desbloqueado */
   border: 2px solid #c71585;
 }
