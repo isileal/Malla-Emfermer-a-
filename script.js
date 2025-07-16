@@ -101,24 +101,7 @@ const prerequisitos = {
   "Cuidados Complejos de Enfermería": ["Enfermería en Adulto y Adulto Mayor II"],
   "Modelos Emergentes del Cuidado": ["Enfermería en Adulto y Adulto Mayor II"],
   "Seminario de Investigación II": ["Seminario de Investigación I"],
-  "Inglés 6": ["Inglés 5"],
-  "Internado I": [
-    "Fundamentos Diciplinares de Enfermería", "Química y Bioquímica", "Matemáticas y Bioestadística",
-    "Ética y Bioética", "Sociedad y Salud I", "Alfabetización Académica", "Gestión del Cuidado I",
-    "Histología y Embriología", "Anatomía", "Biología y Genética", "Sociedad y Salud II", "CFG",
-    "Gestión del Cuidado II", "Educación para la salud", "Biofísica y Fisiología", "Salud Pública",
-    "Psicología General y Evolutiva", "Sociedad y Salud III", "Inglés 1/CFG", "Enfermería en Salud Mental",
-    "Nutrición", "Fisiopatología", "Farmacología", "Agentes Vivos de la Enfermedad", "Inglés 2/CFG",
-    "Enfermería en Niños, Niñas y Adolescentes", "Gestión en Salud I", "Salud Escolar",
-    "Salud Pública en Enfermería", "Inglés 3/CFG", "Enfermería en Adulto y Adulto Mayor I",
-    "Psicología y Salud Comunitaria", "Gestión en Salud II", "Investigación en Salud", "Inglés 4",
-    "Enfermería en Adulto y Adulto Mayor II", "Gestión en Salud III", "Enfermería Ocupacional",
-    "Seminario de Investigación I", "Inglés 5", "Cuidados Complejos de Enfermería",
-    "Modelos Emergentes del Cuidado", "Seminario de Investigación II", "Inglés 6"
-  ],
-  "Enfermería en Urgencia": ["Internado I"],
-  "Internado II": ["Internado I"],
-  "Integración Profesional": ["Internado I"]
+  "Inglés 6": ["Inglés 5"]
 };
 
 let completados = [];
